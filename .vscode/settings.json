@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "Example001_HelloWorld/Example001_HelloWorld.sln"
+    "dotnet.defaultSolution": "Example/Example001_HelloWorld/Example001_HelloWorld.sln"
 }
